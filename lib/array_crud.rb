@@ -22,12 +22,14 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-    dog_names = ["wow", "Sora", "am" "Hova", "Rudy", "Kira", "arrays!"]
+    dog_names = ["wow", "Sora", "Hova", "Rudy", "Kira", "arrays!"]
     dog_names.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-  
+      dog_names = ["wow", "Sora", "am" "Hova", "Rudy", "Kira", "arrays!"]
+      dog_names[2]
+
 end
 
 def retrieve_first_element_from_array(array)
